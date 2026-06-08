@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Models (too large for GitHub)
+data/models/
+*.pt
+*.pth
+
+# Video clips (too large for GitHub)
+data/clips/
+
+# UV
+.uv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.code-workspace
