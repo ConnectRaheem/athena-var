@@ -17,6 +17,7 @@ dependencies = [
     "requests>=2.31.0",
     "torch>=2.1.0",
     "torchvision>=0.16.0",
+    "yt-dlp>=2026.3.17",
 ]
 
 [dependency-groups]
@@ -32,3 +33,6 @@ explicit = true
 [tool.uv.sources]
 torch = { index = "pytorch-cpu" }
 torchvision = { index = "pytorch-cpu" }
+
+[tool.setuptools.packages.find]
+where = ["src"]

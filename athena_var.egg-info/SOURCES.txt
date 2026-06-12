@@ -1,8 +1,0 @@
-README.md
-main.py
-pyproject.toml
-athena_var.egg-info/PKG-INFO
-athena_var.egg-info/SOURCES.txt
-athena_var.egg-info/dependency_links.txt
-athena_var.egg-info/requires.txt
-athena_var.egg-info/top_level.txt
